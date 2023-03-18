@@ -26,7 +26,7 @@ This endpoint allows users to retrieve a single blog post by its ID via a GET re
 ## Getting Started
 
 # Clone the repository:
-git clone https://github.com/your-username/blog-api.git
+git clone https://github.com/ShanifKn/Blogger.git
 
 # Install dependencies:
 
